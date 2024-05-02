@@ -37,11 +37,21 @@ footer {
     width: 100%;
 }
 .titulo {
-    font-style: italic;
+    font-family: 'Rock Salt', cursive; 
+    font-size: 36px;
+    margin: 0;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: 'Open Sans', sans-serif; 
+}
 }
 .menu {
     font-size: 25pt;
     color: #660080;
+    
 }
 .centrado {
     text-align: center;
